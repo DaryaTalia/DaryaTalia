@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DaryaTalia
+- 👋 Hi, I’m Darya Talia, she/they (can be used alternatively, fine with either)~
 - 👀 I’m interested in art, technology, and sociology~
 - 🌱 I’m currently learning video game design & development~
-- 💞️ I’m looking to collaborate on game mechanics, game, egines, and game AI~
-- 📫 How to reach me: Twitter @daryatalia
+- 💞️ I’m open to collaborating on game mechanics, game engines, and game AI~
+- 📫 How to reach me: Twitter @daryatalia, Discord MystiqDreamer#4001~
+- 🖥️ Portfolio Site: www.daryatalia.com
 
 <!---
 DaryaTalia/DaryaTalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
