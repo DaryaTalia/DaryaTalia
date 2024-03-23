@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Darya Talia, she/they (can be used alternatively, fine with either)~
+- 🌱 I’m a video game designer & developer~
 - 👀 I’m interested in art, technology, and sociology~
-- 🌱 I’m currently learning video game design & development~
 - 💞️ I’m open to collaborating on game mechanics, game engines, and game AI~
-- 📫 How to reach me: Twitter @daryatalia, Discord MystiqDreamer#4001~
+- 📫 How to reach me: Twitter @daryatalia, Discord MystiqDreamer, LinkedIn Darya (Talia) Johnson-Marshall~
 - 🖥️ Portfolio Site: www.daryatalia.com
 
 <!---
